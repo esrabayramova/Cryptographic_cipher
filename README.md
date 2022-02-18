@@ -1,6 +1,6 @@
 # Cryptographic_cipher
 
-This python code is the composite of 3 ciphers - Caesar cipher, transposition cipher and Vigenere cipher.
+This cryptographic cipher is the composite of 3 ciphers - Caesar cipher, transposition cipher and Vigenere cipher. The code includes my python implementation of the ciphers.
 
 Vigenere cipher - the last step in the encryption process encrypts the text (the letters) to the emojis.
 
